@@ -11,17 +11,4 @@ public class CatalogItem {
         this.rating = rating;
     }
 
-    public int getRating() {
-        return rating;
-    }
-
-    public void setRating(int rating) {
-        this.rating = rating;
-    }
-
-    public String getName() {
-        return name;
-    }
-
-
 }
